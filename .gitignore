@@ -22,7 +22,7 @@
 hs_err_pid*
 /target/
 
-*/generated/*
+src/main/java/com/lm/generated/*
 
 .classpath
 .project
